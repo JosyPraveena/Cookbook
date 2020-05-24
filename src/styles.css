@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App h1 {
+  font-family: "Cookie";
+  font-size: 5rem;
+  color: white;
+}
+
+h2 {
+  font-family: "Cookie";
+  font-size: 5rem;
+  color: black;
+}
+
+html {
+  background: url("https://cdn.nohat.cc/thumb/f/720/4713951975702528.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+  display: flex;
+}
+.header button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: "Cookie";
+  font-size: 2rem;
+  border-radius: 12px;
+  overflow: hidden;
+}
